@@ -56,17 +56,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrcsbrigida&show_icons=true&theme=tokyonight&include_all_commits=true" />
   
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcsbrigida&theme=tokyonight" />
 </div>
 
-### 🔝 Linguagens mais usadas
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsbrigida&layout=compact&theme=tokyonight" />
-</div>
-
 ---
 <div align="center">
+  <a href="https://www.linkedin.com/in/marcos-brigida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mrcsbrigida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
